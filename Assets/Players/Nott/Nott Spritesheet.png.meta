@@ -1,0 +1,544 @@
+fileFormatVersion: 2
+guid: b7c1ff58643e4477ba5cf8c9c1e4498c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Nott Left forearm
+  - first:
+      213: 21300002
+    second: Nott Left bicep
+  - first:
+      213: 21300004
+    second: Nott Body
+  - first:
+      213: 21300006
+    second: Nott Right Bicep
+  - first:
+      213: 21300008
+    second: Nott Right Forearm
+  - first:
+      213: 21300010
+    second: Nott Crossbow
+  - first:
+      213: 21300012
+    second: Nott Left Thigh
+  - first:
+      213: 21300014
+    second: Nott Left Calf
+  - first:
+      213: 21300016
+    second: Nott Left Foot
+  - first:
+      213: 21300018
+    second: Nott Left Cloak
+  - first:
+      213: 21300020
+    second: Nott Right Cloak
+  - first:
+      213: 21300022
+    second: Nott Dagger
+  - first:
+      213: 21300024
+    second: Nott Right Foot
+  - first:
+      213: 21300026
+    second: Nott Right Thigh
+  - first:
+      213: 21300028
+    second: Nott Right Calf
+  - first:
+      213: 21300030
+    second: Nott Bolt
+  - first:
+      213: 21300032
+    second: Nott Aura Back
+  - first:
+      213: 21300034
+    second: Nott Aura Front
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nott Left forearm
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1667
+        width: 210
+        height: 538
+      alignment: 9
+      pivot: {x: 0.4999997, y: 0.8457004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23882c2a6bff043a18530db543add740
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nott Left bicep
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 1813
+        width: 178
+        height: 408
+      alignment: 9
+      pivot: {x: 0.36661145, y: 0.79096776}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f64497262e2449b9b0ca1802d90d92
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nott Body
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 1481
+        width: 672
+        height: 989
+      alignment: 9
+      pivot: {x: 0.52944237, y: 0.2959389}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d20d373528cc40e5a244501a63dc1af
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nott Right Bicep
+      rect:
+        serializedVersion: 2
+        x: 2483
+        y: 1663
+        width: 166
+        height: 364
+      alignment: 9
+      pivot: {x: 0.4761595, y: 0.73916894}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94275287752b74504a54b6e3c93adf60
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nott Right Forearm
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 1536
+        width: 214
+        height: 471
+      alignment: 9
+      pivot: {x: 0.46301612, y: 0.84446585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b076952f1b5fe4ee3995fc913e0178d1
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nott Crossbow
+      rect:
+        serializedVersion: 2
+        x: 2538
+        y: 2059
+        width: 934
+        height: 371
+      alignment: 9
+      pivot: {x: 0.33052772, y: 0.49999934}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075d9357d85d14001b9cb355f2ea781e
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nott Left Thigh
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1053
+        width: 225
+        height: 467
+      alignment: 9
+      pivot: {x: 0.48241183, y: 0.7881014}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398bc9530a4af4f4eb3162cc73f058fa
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nott Left Calf
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 1093
+        width: 194
+        height: 344
+      alignment: 9
+      pivot: {x: 0.49999937, y: 0.684054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fdd917c6edba48489f71bc26198106e
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nott Left Foot
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 1061
+        width: 321
+        height: 353
+      alignment: 9
+      pivot: {x: 0.37672266, y: 0.72420096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20665253cd561412eb3d33483f87bb66
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nott Left Cloak
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 511
+        width: 233
+        height: 752
+      alignment: 9
+      pivot: {x: 0.49999896, y: 0.6841765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1511c5de933448c7b37b7b42c330a73
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nott Right Cloak
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 511
+        width: 273
+        height: 954
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595442869797648dcaae6283ef7438a7
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nott Dagger
+      rect:
+        serializedVersion: 2
+        x: 2499
+        y: 1125
+        width: 542
+        height: 265
+      alignment: 9
+      pivot: {x: 0.2882688, y: 0.45520112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8ecfff37f114bd7a0e467ddd9a9da5
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nott Right Foot
+      rect:
+        serializedVersion: 2
+        x: 3045
+        y: 713
+        width: 325
+        height: 325
+      alignment: 9
+      pivot: {x: 0.42694336, y: 0.70698935}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2f5328171dd44e9be4ce69c4966918
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nott Right Thigh
+      rect:
+        serializedVersion: 2
+        x: 2717
+        y: 214
+        width: 213
+        height: 467
+      alignment: 9
+      pivot: {x: 0.48141894, y: 0.79657507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff1231dbfbf04f4a86d5d781256ea4f
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nott Right Calf
+      rect:
+        serializedVersion: 2
+        x: 2966
+        y: 250
+        width: 202
+        height: 309
+      alignment: 9
+      pivot: {x: 0.46081907, y: 0.76893365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2a062c6d2dd45139f670e5603ed79b
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nott Bolt
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 139
+        width: 629
+        height: 194
+      alignment: 9
+      pivot: {x: 0.3301373, y: 0.41840875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf6416ac2c2840fe8edf7065b8ea843
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nott Aura Back
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 547
+        width: 1148
+        height: 467
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87bbfd4dbbca40cc8943da5d58c050e
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nott Aura Front
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 76
+        width: 1148
+        height: 408
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d7030f76888484f844d88280211730
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c64fead340351484f8e702b4a3e5af4a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
